@@ -1,0 +1,12 @@
+body{
+  background-color: lightblue
+}
+.myDiv {
+  border: 3px outset purple;
+  background-color: lightblue;
+  text-align: center;
+  font-size: 40px;
+}
+.sbub{
+  border: 10px outset black;
+}
